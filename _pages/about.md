@@ -17,8 +17,6 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 ####  Research Engineer (09/2023 to present, CSIRO’s Data61)
 
-* Received "Early Career in Science Award" in Data61 Software & Computational Systems Biannual Awards, 2024.
-
 * Propose an architectural pattern catalogue for foundation model-based agents.
 
 * Co-contributions to the ESG-AI framework development collaborating with Alphinity.
@@ -49,31 +47,34 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 ## Educational Background
 
-Degree                   Doctor of Philosophy (2020.09 – 2024.09)
+####  Doctor of Philosophy (2020.09 – 2024.09)
 
-University               University of New South Wales (co-supervised by researchers from CSIRO’s Data61)
+* **University**:               University of New South Wales (co-supervised by researchers from CSIRO’s Data61)
 
-Major                    Computer Science and Engineering
+* **Major**":                    Computer Science and Engineering
 
-Supervisors              Dr. Qinghua Lu, Dr. Liming Zhu, Dr. Hye-Young Paik
+* **Supervisors**:              Dr. Qinghua Lu, Dr. Liming Zhu, Dr. Hye-Young Paik
 
-Research topic           Software Architecture for Governance-Driven Blockchain Systems
-
-
-Degree                   Master of Engineering by Research (2017.09 – 2020.06)
-
-University               China University of Petroleum (East China)  
-
-Major                    Software Engineering
+* **Research topic**:           Software Architecture for Governance-Driven Blockchain Systems
 
 
-Degree	                 Bachelor (2013.09 - 2017.06)
+####  Master of Engineering by Research (2017.09 – 2020.06)
 
-University               China University of Petroleum (East China)
+* **University**:               China University of Petroleum (East China)  
 
-Major                    Computer Science and Technology; English (double major)
+* **Major**:                    Software Engineering
+
+
+####  Bachelor (2013.09 - 2017.06)
+
+* **University**:               China University of Petroleum (East China)
+
+* **Major**:                    Computer Science and Technology; English (double major)
 
 ***
 
+## Awards
 
+* **"Early Career in Science Award"** in Data61 Software & Computational Systems Biannual Awards, 2024.
+* **"University International Postgraduate Award, UNSW"**, 2020-2024
 
