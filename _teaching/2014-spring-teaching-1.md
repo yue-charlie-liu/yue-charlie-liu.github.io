@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /
+title: "Teaching"
+author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+##  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
 
-Heading 1
-======
+* Worked as a tutor for Blockchain Software Architecture course with ~100 students at undergrad/postgrad levels.
 
-Heading 2
-======
+* Taught weekly 2-hour tutorials.
 
-Heading 3
-======
+* Mentored 20 groups of students on blockchain projects.
