@@ -76,5 +76,5 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 ## Awards
 
 * **"Early Career in Science Award"** in Data61 Software & Computational Systems Biannual Awards, 2024.
-* **"University International Postgraduate Award, UNSW"**, 2020-2024
+* **"University International Postgraduate Award"**, University of New South Wales, 2020-2024.
 
