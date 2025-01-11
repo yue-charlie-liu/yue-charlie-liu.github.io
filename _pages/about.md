@@ -13,9 +13,9 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 ***
 
-## Experience
+# Experience
 
-####  Research Engineer (09/2023 to present, CSIRO’s Data61)
+##  Research Engineer (09/2023 to present, CSIRO’s Data61)
 
 * Propose an architectural pattern catalogue for foundation model-based agents.
 
@@ -28,14 +28,14 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 * Technical lead for the Data Bill of Materials project collaborated with CSIRO IM&T department.
 
 
-####  Research Technician (07/2022 to 09/2023, CSIRO’s Data61)
+##  Research Technician (07/2022 to 09/2023, CSIRO’s Data61)
 
 * Conduct multivolcal literature review for risk assessment for Responsible AI.
 
 * Refine metrics for AI risk assessment.
 
 
-####  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
+##  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
 
 * Worked as a tutor for Blockchain Software Architecture course with ~100 students at undergrad/postgrad levels.
 
@@ -45,9 +45,9 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 ***
 
-## Educational Background
+# Educational Background
 
-####  Doctor of Philosophy (2020.09 – 2024.09)
+##  Doctor of Philosophy (2020.09 – 2024.09)
 
 * **University**:               University of New South Wales (co-supervised by researchers from CSIRO’s Data61)
 
@@ -58,14 +58,14 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 * **Research topic**:           Software Architecture for Governance-Driven Blockchain Systems
 
 
-####  Master of Engineering by Research (2017.09 – 2020.06)
+##  Master of Engineering by Research (2017.09 – 2020.06)
 
 * **University**:               China University of Petroleum (East China)  
 
 * **Major**:                    Software Engineering
 
 
-####  Bachelor (2013.09 - 2017.06)
+##  Bachelor (2013.09 - 2017.06)
 
 * **University**:               China University of Petroleum (East China)
 
@@ -73,7 +73,7 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 ***
 
-## Awards
+# Awards
 
 * **"Early Career in Science Award"** in Data61 Software & Computational Systems Biannual Awards, 2024.
 * **"University International Postgraduate Award"**, University of New South Wales, 2020-2024.
