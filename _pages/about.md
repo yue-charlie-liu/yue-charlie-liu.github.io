@@ -11,43 +11,43 @@ Dr Yue Liu is currently a Research Engineer at the Software Engineering for AI t
 
 Yue has published many papers at top-tier CORE A*/A ranked conferences/journals, including Information Systems, Journal of Systems and Software, ICSA. His research interests include Responsible AI, SE for AI, blockchain governance, blockchain as a service, and software architecture. Please refer to his [Google Scholar page](https://scholar.google.com.au/citations?user=cG34KO4AAAAJ) for latest publication.
 
-=====
+***
 
-# Experience
+## Experience
 
-1.	**Research Engineer** (09/2023 to present, CSIRO’s Data61)
+####  Research Engineer (09/2023 to present, CSIRO’s Data61)
 
-•	Received "Early Career in Science Award" in Data61 Software & Computational Systems Biannual Awards, 2024.
+* Received "Early Career in Science Award" in Data61 Software & Computational Systems Biannual Awards, 2024.
 
-•	Propose an architectural pattern catalogue for foundation model-based agents.
+* Propose an architectural pattern catalogue for foundation model-based agents.
 
-•	Co-contributions to the ESG-AI framework development collaborating with Alphinity.
+* Co-contributions to the ESG-AI framework development collaborating with Alphinity.
 
-•	Propose an architecture design and analyse design decision trade-offs for a tax copilot collaborating with Empathetic AI.
+* Propose an architecture design and analyse design decision trade-offs for a tax copilot collaborating with Empathetic AI.
 
-•	Lead RAI pattern catalogue mapping to the EU AI Act, ISO 42001 standard, and Australia Voluntary AI Safety standard draft with Australia National AI Centre.
+* Lead RAI pattern catalogue mapping to the EU AI Act, ISO 42001 standard, and Australia Voluntary AI Safety standard draft with Australia National AI Centre.
 
-•	Technical lead for the Data Bill of Materials project collaborated with CSIRO IM&T department.
-
-
-2. **Research Technician** (07/2022 to 09/2023, CSIRO’s Data61)
-
-•	Conduct multivolcal literature review for risk assessment for Responsible AI.
-
-•	Refine metrics for AI risk assessment.
+* Technical lead for the Data Bill of Materials project collaborated with CSIRO IM&T department.
 
 
-3.	**Teaching Assistant** (05/2021 to 08/2021, University of New South Wales)
+####  Research Technician (07/2022 to 09/2023, CSIRO’s Data61)
 
-•	Worked as a tutor for Blockchain Software Architecture course with ~100 students at undergrad/postgrad levels.
+* Conduct multivolcal literature review for risk assessment for Responsible AI.
 
-•	Taught weekly 2-hour tutorials.
+* Refine metrics for AI risk assessment.
 
-•	Mentored 20 groups of students on blockchain projects.
 
-=====
+####  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
 
-**Educational Background**
+* Worked as a tutor for Blockchain Software Architecture course with ~100 students at undergrad/postgrad levels.
+
+* Taught weekly 2-hour tutorials.
+
+* Mentored 20 groups of students on blockchain projects.
+
+***
+
+## Educational Background
 
 Degree                   Doctor of Philosophy (2020.09 – 2024.09)
 
@@ -73,7 +73,7 @@ University               China University of Petroleum (East China)
 
 Major                    Computer Science and Technology; English (double major)
 
-=====
+***
 
 
 
