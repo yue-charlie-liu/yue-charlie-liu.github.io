@@ -1,3 +1,9 @@
+---
+title: "Teaching experience 1"
+collection: teaching
+permalink: /teaching/1
+---
+
 
 ##  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
 
