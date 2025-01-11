@@ -15,21 +15,32 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 **Experience**
 
-1.	**Research Engineer** (09/2023 to present, CSIRO’s Data61) 
+1.	**Research Engineer** (09/2023 to present, CSIRO’s Data61)
+
 •	Received "Early Career in Science Award" in Data61 Software & Computational Systems Biannual Awards, 2024.
+
 •	Propose an architectural pattern catalogue for foundation model-based agents.
+
 •	Co-contributions to the ESG-AI framework development collaborating with Alphinity.
+
 •	Propose an architecture design and analyse design decision trade-offs for a tax copilot collaborating with Empathetic AI.
+
 •	Lead RAI pattern catalogue mapping to the EU AI Act, ISO 42001 standard, and Australia Voluntary AI Safety standard draft with Australia National AI Centre.
+
 •	Technical lead for the Data Bill of Materials project collaborated with CSIRO IM&T department.
 
 2. **Research Technician** (07/2022 to 09/2023, CSIRO’s Data61)
+
 •	Conduct multivolcal literature review for risk assessment for Responsible AI.
+
 •	Refine metrics for AI risk assessment.
 
 3.	**Teaching Assistant** (05/2021 to 08/2021, University of New South Wales)
+
 •	Worked as a tutor for Blockchain Software Architecture course with ~100 students at undergrad/postgrad levels.
+
 •	Taught weekly 2-hour tutorials.
+
 •	Mentored 20 groups of students on blockchain projects.
 
 =====
