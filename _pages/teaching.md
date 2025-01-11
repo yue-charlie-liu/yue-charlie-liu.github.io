@@ -1,13 +1,13 @@
 ---
 permalink: /teaching
-title: ""
+title: "Teaching"
 author_profile: true
 redirect_from: 
   - /teaching/
   - /teaching.html
 ---
 
-##  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
+###  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
 
 * Worked as a tutor for Blockchain Software Architecture course with ~100 students at undergrad/postgrad levels.
 
