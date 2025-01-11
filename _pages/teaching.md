@@ -1,10 +1,13 @@
 ---
-permalink: /teaching
+layout: archive
 title: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /teaching
 ---
+
+{% include base_path %}
 
 ###  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
 
