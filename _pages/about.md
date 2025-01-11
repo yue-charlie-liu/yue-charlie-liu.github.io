@@ -29,11 +29,13 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 •	Technical lead for the Data Bill of Materials project collaborated with CSIRO IM&T department.
 
+
 2. **Research Technician** (07/2022 to 09/2023, CSIRO’s Data61)
 
 •	Conduct multivolcal literature review for risk assessment for Responsible AI.
 
 •	Refine metrics for AI risk assessment.
+
 
 3.	**Teaching Assistant** (05/2021 to 08/2021, University of New South Wales)
 
@@ -48,18 +50,30 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 **Educational Background**
 
 Degree                   Doctor of Philosophy (2020.09 – 2024.09)
+
 University               University of New South Wales (co-supervised by researchers from CSIRO’s Data61)
+
 Major                    Computer Science and Engineering
+
 Supervisors              Dr. Qinghua Lu, Dr. Liming Zhu, Dr. Hye-Young Paik
+
 Research topic           Software Architecture for Governance-Driven Blockchain Systems
 
+
 Degree                   Master of Engineering by Research (2017.09 – 2020.06)
+
 University               China University of Petroleum (East China)  
+
 Major                    Software Engineering
 
+
 Degree	                 Bachelor (2013.09 - 2017.06)
+
 University               China University of Petroleum (East China)
+
 Major                    Computer Science and Technology; English (double major)
+
+=====
 
 
 
