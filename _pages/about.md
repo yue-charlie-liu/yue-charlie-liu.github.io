@@ -43,7 +43,7 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 * **University**:               University of New South Wales (co-supervised by researchers from CSIRO’s Data61)
 
-* **Major**":                    Computer Science and Engineering
+* **Major**:                    Computer Science and Engineering
 
 * **Supervisors**:              Dr. Qinghua Lu, Dr. Liming Zhu, Dr. Hye-Young Paik
 
