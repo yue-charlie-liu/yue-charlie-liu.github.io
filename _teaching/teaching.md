@@ -1,7 +1,6 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-author_profile: true
 ---
 
 ##  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
