@@ -1,13 +1,12 @@
 ---
-permalink: /teaching
+layout: archive
 title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
-##  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
+{% include base_path %}
 
-* Worked as a tutor for Blockchain Software Architecture course with ~100 students at undergrad/postgrad levels.
-
-* Taught weekly 2-hour tutorials.
-
-* Mentored 20 groups of students on blockchain projects.
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
