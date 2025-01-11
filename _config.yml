@@ -24,9 +24,9 @@ author:
   avatar           : "yue.png"
   name             : "Yue Liu 刘 越"
   pronouns         : # example: "she/her"  
-  bio              : "Research Engineer @ Data61, CSIRO, Australia"
+  bio              : "Research Engineer"
   location         : "Sydney, Australia"
-  employer         : #"Red Brick University"
+  employer         : "Data61, CSIRO"
   uri              : # URL
   email            : "yue.liu@data61.csiro.au" 
 
