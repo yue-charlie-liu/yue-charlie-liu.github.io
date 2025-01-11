@@ -1,7 +1,3 @@
----
-title: "Teaching experience"
-collection: teaching
----
 
 ##  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
 
