@@ -21,7 +21,7 @@ repository               : "yue-charlie-liu/yue-charlie-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yue.png"
   name             : "Yue Liu 刘 越"
   pronouns         : # example: "she/her"  
   bio              : "Research Engineer @ Data61, CSIRO, Australia"
