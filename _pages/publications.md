@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+You can also find my full publications on [my Google Scholar profile](https://scholar.google.com.au/citations?user=cG34KO4AAAAJ).
+
 ###  AI Engineering
 
 1.	Liu, Y., Lo, S. K., Lu, Q., Zhu, L., Zhao, D., Xu, X., ... & Whittle, J. (2025). Agent Design Pattern Catalogue: A Collection of Architectural Patterns for Foundation Model based Agents. Journal of Systems and Software, 220, 112278.
