@@ -14,7 +14,6 @@ You can find my full publications on [my Google Scholar profile](https://scholar
 1.	**Liu, Y.**, Lo, S. K., Lu, Q., Zhu, L., Zhao, D., Xu, X., ... & Whittle, J. (2025). Agent Design Pattern Catalogue: A Collection of Architectural Patterns for Foundation Model based Agents. Journal of Systems and Software, 220, 112278.
 2.	Lu, Q., Zhu, L., Xu, X., **Liu, Y.**, Xing, Z., & Whittle, J. (2024, April). A taxonomy of foundation model based systems through the lens of software architecture. In Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering-Software Engineering for AI (pp. 1-6).
 3.	Lu, Q., Zhao, D., **Liu, Y.**, Zhang, H., Zhu, L., Xu, X., ... & Tan, T. (2024). EVALUATING THE ARCHITECTURE OF LARGE LANGUAGE MODEL-BASED AGENTS.
-4.	Zhengxin, F., Yi, Y., Jingyu, Z., Yue, L., Yuechen, M., Qinghua, L., ... & Shiping, C. (2023). Mlops spanning whole machine learning life cycle: A survey. arXiv preprint arXiv:2304.07296.
 
 ***
 
