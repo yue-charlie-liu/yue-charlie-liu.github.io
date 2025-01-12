@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my full publications on [my Google Scholar profile](https://scholar.google.com.au/citations?user=cG34KO4AAAAJ).
+You can find my full publications on [my Google Scholar profile](https://scholar.google.com.au/citations?user=cG34KO4AAAAJ).
 
 ###  AI Engineering
 
