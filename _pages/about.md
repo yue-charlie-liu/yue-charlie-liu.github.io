@@ -27,6 +27,8 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 * Technical lead for the Data Bill of Materials project collaborated with CSIRO IM&T department.
 
+* Data validation and qualitative analysis for International Network of AI Safety Institutes Joint Testing Exercise.
+
 * Prototype development for a blockchain-based Indigenous Information Tracing Platform.
 
 
