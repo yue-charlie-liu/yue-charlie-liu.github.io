@@ -27,6 +27,8 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 * Technical lead for the Data Bill of Materials project collaborated with CSIRO IM&T department.
 
+* Prototype development for a blockchain-based Indigenous Information Tracing Platform.
+
 
 ###   Research Technician (07/2022 to 09/2023, CSIRO’s Data61)
 
