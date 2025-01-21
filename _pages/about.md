@@ -43,9 +43,7 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 # Educational Background
 
-###   Doctor of Philosophy (2020 – 2024)
-
-* **University**:               University of New South Wales (co-supervised by researchers from CSIRO’s Data61)
+* **Doctor of Philosophy (2020 – 2024)**:               University of New South Wales (co-supervised by researchers from CSIRO’s Data61)
 
 <!--* **Major**:                    Computer Science and Engineering
 
@@ -53,17 +51,12 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 * **Research topic**:           Software Architecture for Governance-Driven Blockchain Systems -->
 
-
-###   Master of Engineering by Research (2017 – 2020)
-
-* **University**:               China University of Petroleum (East China)  
+* **Master of Engineering by Research (2017 – 2020)**:               China University of Petroleum (East China)  
 
 <!--* **Major**:                    Software Engineering -->
 
 
-###   Bachelor (2013 - 2017)
-
-* **University**:               China University of Petroleum (East China)
+* **Bachelor (2013 - 2017)**:               China University of Petroleum (East China)
 
 <!--* **Major**:                    Computer Science and Technology; English (double major) -->
 
