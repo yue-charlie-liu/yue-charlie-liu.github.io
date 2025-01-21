@@ -29,7 +29,7 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 * Data validation and qualitative analysis for International Network of AI Safety Institutes Joint Testing Exercise.
 
-* Prototype development for a blockchain-based Indigenous Information Tracing Platform.
+* Prototype development for blockchain-based Indigenous information tracing platform.
 
 
 ###   Research Technician (07/2022 to 09/2023, CSIRO’s Data61)
