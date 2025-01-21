@@ -43,25 +43,25 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 * **University**:               University of New South Wales (co-supervised by researchers from CSIRO’s Data61)
 
-* **Major**:                    Computer Science and Engineering
+<!--* **Major**:                    Computer Science and Engineering
 
 * **Supervisors**:              Dr. Qinghua Lu, Dr. Liming Zhu, Dr. Hye-Young Paik
 
-* **Research topic**:           Software Architecture for Governance-Driven Blockchain Systems
+* **Research topic**:           Software Architecture for Governance-Driven Blockchain Systems -->
 
 
 ###   Master of Engineering by Research (2017.09 – 2020.06)
 
 * **University**:               China University of Petroleum (East China)  
 
-* **Major**:                    Software Engineering
+<!--* **Major**:                    Software Engineering -->
 
 
 ###   Bachelor (2013.09 - 2017.06)
 
 * **University**:               China University of Petroleum (East China)
 
-* **Major**:                    Computer Science and Technology; English (double major)
+<!--* **Major**:                    Computer Science and Technology; English (double major) -->
 
 ***
 
