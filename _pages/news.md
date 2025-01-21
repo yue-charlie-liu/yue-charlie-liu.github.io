@@ -5,9 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
-###  Professional Services
+#  Professional Services
 
-# Conferences
+### Conferences
 1.  ICSE 2025, 3rd International Workshop on Responsible AI Engineering, PC member
 2.  ICSA 2025, 4th International Workshop on Software Architecture and Machine Learning, PC member
 3. 	CAiSE 2025, B4ISE25 - Blockchain for Information Systems Engineering, PC member
@@ -21,7 +21,7 @@ author_profile: true
 11. Pacific Rim International Conference on Artificial Intelligence 2023, Main track, PC member
 12. International Conference on Perspectives in Business Informatics Research 2023, ​International Workshop on Blockchain for Trusted Data Sharing, PC member
 
-# Journals
+### Journals
 
 1. ACM Computing Surveys
 2. ACM Transactions on Sensor Networks
