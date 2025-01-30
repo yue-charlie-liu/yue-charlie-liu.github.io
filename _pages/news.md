@@ -27,17 +27,18 @@ author_profile: true
 2. ACM Transactions on Sensor Networks
 3. IEEE Transactions on Intelligent Transportation Systems
 4. IEEE Transactions on Neural Networks and Learning Systems
-5. IEEE Transactions on Intelligent Vehicles
-6. IEEE Software
-7. IT Professional
-8. IEEE Access
-9. Peer-to-Peer Networking and Applications
-10. Cluster Computing
-11. Information and Software Technology
-12. Digital Government: Research and Practice
-13. Computing and Informatics
-14. International Journal of Electrical and Computer Engineering
-15. Frontiers of Computer Science, Invited reviewer
-16. Blockchain: Research and Applications
-17. Enterprise Modelling and Information Systems Architectures
-18. Business & Information Systems Engineering
+5. IEEE Transactions on Computational Social Systems
+6. IEEE Transactions on Intelligent Vehicles
+7. IEEE Software
+8. IT Professional
+9. IEEE Access
+10. Peer-to-Peer Networking and Applications
+11. Cluster Computing
+12. Information and Software Technology
+13. Digital Government: Research and Practice
+14. Computing and Informatics
+15. International Journal of Electrical and Computer Engineering
+16. Frontiers of Computer Science, Invited reviewer
+17. Blockchain: Research and Applications
+18. Enterprise Modelling and Information Systems Architectures
+19. Business & Information Systems Engineering
