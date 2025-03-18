@@ -17,7 +17,7 @@ author_profile: true
 7. 	IEEE Blockchain 2024, Main track, PC member
 8. 	ICSE 2024, 2rd International Workshop on Responsible AI Engineering, PC member
 9. 	Pacific Rim International Conference on Artificial Intelligence 2024, Main track, PC member
-10. 	International Conference on Very Large Databases 2024, International Workshop on Foundations and Applications of Blockchain, PC member
+10. International Conference on Very Large Databases 2024, International Workshop on Foundations and Applications of Blockchain, PC member
 11. IEEE Blockchain 2023, Main track, PC member
 12. Pacific Rim International Conference on Artificial Intelligence 2023, Main track, PC member
 13. International Conference on Perspectives in Business Informatics Research 2023, ​International Workshop on Blockchain for Trusted Data Sharing, PC member
