@@ -19,6 +19,8 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 ###  Research Fellow (03/2025 to present, School of Computing, Australian National University)
 
+* Conduct research on artificial intelligence, machine learning, and natural language processing in HSE field.
+
 ###  Research Engineer (09/2023 to 03/2025, CSIRO’s Data61)
 
 * Propose an architectural pattern catalogue for foundation model-based agents.
