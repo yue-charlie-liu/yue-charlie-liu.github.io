@@ -19,7 +19,11 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 ###  Research Fellow (03/2025 to present, School of Computing, Australian National University)
 
-* Conduct research on artificial intelligence, machine learning, and natural language processing in HSE field.
+* Comparative analysis of duties, prohibitions, and compliance structures of Australian WHS regulations via LLM.
+  
+* Surveying AI acceptance in HSE, contributing to the broader understanding of societal trust in AI.
+  
+* Organising interdisciplinary workshops engaging legal, industry, and research stakeholders to disseminate findings and foster responsible AI adoption.
 
 ###  Research Engineer (09/2023 to 03/2025, CSIRO’s Data61)
 
