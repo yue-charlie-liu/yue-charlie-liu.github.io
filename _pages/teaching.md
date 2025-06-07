@@ -13,10 +13,9 @@ I am co-supervising Master students from University of New South Wales and Lingn
 
 # Experience
 
-###  Teaching Assistant (05/2021 to 08/2021, University of New South Wales)
+###  **COMP6452 Software Architecture for Blockchain Applications** (2021, University of New South Wales, Teaching Assistant)
 
-* Worked as a tutor for Blockchain Software Architecture course with ~100 students at undergrad/postgrad levels.
+* Lead the tutorials of COMP6452 with ~100 students at undergraduate and postgraduate levels.
 
-* Taught weekly 2-hour tutorials.
+* Provide project mentorship to 20 teams, fostering skills in developing secure and accountable distributed systems.
 
-* Mentored 20 groups of students on blockchain projects.
