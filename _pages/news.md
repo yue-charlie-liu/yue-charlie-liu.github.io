@@ -9,7 +9,7 @@ author_profile: true
 
 [June 2025] Our paper "[Integrating ESG and AI: a comprehensive responsible AI assessment framework](https://link.springer.com/article/10.1007/s43681-025-00741-5)" is published by AI and Ethics.
 
-#  Professional Services
+##  Professional Services
 
 ### Conferences
 1.  ICSE 2025, 3rd International Workshop on Responsible AI Engineering, PC member
