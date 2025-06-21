@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
+[June 2025] I will be serving as a Program Committee Member of AIware 2025 (https://2025.aiwareconf.org/).
+
 #  Professional Services
 
 ### Conferences
