@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 [June 2025] I will be serving as a Program Committee Member of AIware 2025 (https://2025.aiwareconf.org/).
+
 [June 2025] Our paper "[Integrating ESG and AI: a comprehensive responsible AI assessment framework](https://link.springer.com/article/10.1007/s43681-025-00741-5)" is published by AI and Ethics.
 
 #  Professional Services
