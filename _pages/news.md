@@ -5,11 +5,13 @@ permalink: /news/
 author_profile: true
 ---
 
+[July 2025] I will be serving as a Program Committee Member of [CAIN 2025](https://conf.researchr.org/home/cain-2026).
+
 [July 2025] I am invited to join the [AWS Canberra User Group Panel](https://www.meetup.com/awscbr/events/309077067/) to discuss Responsible AI.
 
 [July 2025] I am honered to serve as the Program Chair of [AI for Climate, Safety and Environment Workshop](https://events.humanitix.com/ai4good-2025).
 
-[June 2025] I will be serving as a Program Committee Member of AIware 2025 (https://2025.aiwareconf.org/).
+[June 2025] I will be serving as a Program Committee Member of [AIware 2025](https://2025.aiwareconf.org/).
 
 [June 2025] Our paper "[Integrating ESG and AI: a comprehensive responsible AI assessment framework](https://link.springer.com/article/10.1007/s43681-025-00741-5)" is published by AI and Ethics.
 
