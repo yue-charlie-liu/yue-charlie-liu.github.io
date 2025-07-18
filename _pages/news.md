@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-[July 2025] I will be serving as a Program Committee Member of [CAIN 2025](https://conf.researchr.org/home/cain-2026).
+[July 2025] I will be serving as a Program Committee Member of [CAIN 2026](https://conf.researchr.org/home/cain-2026).
 
 [July 2025] I am invited to join the [AWS Canberra User Group Panel](https://www.meetup.com/awscbr/events/309077067/) to discuss Responsible AI.
 
@@ -19,19 +19,20 @@ author_profile: true
 
 ### Conferences
 1.  ICSE 2025, 3rd International Workshop on Responsible AI Engineering, PC member
-2.  AIware 2025, 2nd ACM International Conference on AI-powered Software, PC Member
-3.  ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity, Student Research Competition, PC member
-4.  ICSA 2025, 4th International Workshop on Software Architecture and Machine Learning, PC member
-5. 	CAiSE 2025, Blockchain for Information Systems Engineering, PC member
-6. 	IEEE S&P 2025, Human-Machine Intelligence for Security Analytics, PC member
-7. 	IEEE ISPA 2024, Main track, PC member
-8. 	IEEE Blockchain 2024, Main track, PC member
-9. 	ICSE 2024, 2rd International Workshop on Responsible AI Engineering, PC member
-10. 	Pacific Rim International Conference on Artificial Intelligence 2024, Main track, PC member
-11. International Conference on Very Large Databases 2024, International Workshop on Foundations and Applications of Blockchain, PC member
-12. IEEE Blockchain 2023, Main track, PC member
-13. Pacific Rim International Conference on Artificial Intelligence 2023, Main track, PC member
-14. International Conference on Perspectives in Business Informatics Research 2023, ​International Workshop on Blockchain for Trusted Data Sharing, PC member
+2.  CAIN 2026, 5th International Conference on AI Engineering – Software Engineering for AI, PC Member
+3.  AIware 2025, 2nd ACM International Conference on AI-powered Software, PC Member
+4.  ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity, Student Research Competition, PC member
+5.  ICSA 2025, 4th International Workshop on Software Architecture and Machine Learning, PC member
+6. 	CAiSE 2025, Blockchain for Information Systems Engineering, PC member
+7. 	IEEE S&P 2025, Human-Machine Intelligence for Security Analytics, PC member
+8. 	IEEE ISPA 2024, Main track, PC member
+9. 	IEEE Blockchain 2024, Main track, PC member
+10. ICSE 2024, 2rd International Workshop on Responsible AI Engineering, PC member
+11. Pacific Rim International Conference on Artificial Intelligence 2024, Main track, PC member
+12. International Conference on Very Large Databases 2024, International Workshop on Foundations and Applications of Blockchain, PC member
+13. IEEE Blockchain 2023, Main track, PC member
+14. Pacific Rim International Conference on Artificial Intelligence 2023, Main track, PC member
+15. International Conference on Perspectives in Business Informatics Research 2023, ​International Workshop on Blockchain for Trusted Data Sharing, PC member
 
 ### Journals
 
