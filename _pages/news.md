@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+[August 2025] I will be serving as a Program Committee Member of [RAIE 2026](https://conf.researchr.org/home/icse-2026/raie-2026).
 
 [July 2025] I will be serving as a Program Committee Member of [CAIN 2026](https://conf.researchr.org/home/cain-2026).
 
