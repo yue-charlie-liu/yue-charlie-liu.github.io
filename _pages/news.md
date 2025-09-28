@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+[September 2025] I will be serving as a Program Committee Member of [ICSA 2026](https://conf.researchr.org/home/icsa-2026).
+
 [August 2025] I will be serving as the Proceedings Chair of [AGENT 2026](https://conf.researchr.org/home/icse-2026/agent-2026). 
 
 [August 2025] I will be serving as a Program Committee Member of [RAIE 2026](https://conf.researchr.org/home/icse-2026/raie-2026).
