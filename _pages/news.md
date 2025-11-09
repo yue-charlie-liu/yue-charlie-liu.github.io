@@ -34,7 +34,7 @@ author_profile: true
 7.  RAIE 2025, 3rd International Workshop on Responsible AI Engineering, PC member
 8.  ICSA 2025, 4th International Workshop on Software Architecture and Machine Learning, PC member
 9. 	CAiSE 2025, Blockchain for Information Systems Engineering, PC member
-10. 	IEEE S&P 2025, Human-Machine Intelligence for Security Analytics, PC member
+10. IEEE S&P 2025, Human-Machine Intelligence for Security Analytics, PC member
 11. IEEE ISPA 2024, Main track, PC member
 12. IEEE Blockchain 2024, Main track, PC member
 13. ICSE 2024, 2rd International Workshop on Responsible AI Engineering, PC member
