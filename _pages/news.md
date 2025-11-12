@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+[November 2025] I will be serving as a Program Committee Member of [SAML 2026](https://sa-ml.github.io/saml2026/).
+
 [October 2025] I will be serving as a Program Committee Member of [WWW 2026](https://www2026.thewebconf.org/).
 
 [September 2025] I will be serving as a Program Committee Member of [ICSA 2026](https://conf.researchr.org/home/icsa-2026).
@@ -26,23 +28,24 @@ author_profile: true
 
 ### Conferences
 1.  WWW 2026, ACM Web Conference, PC member
-2.  AGENT 2026, 1st International Workshop on Agentic Engineering, Proceedings Chair
-3.  RAIE 2026, 4rd International Workshop on Responsible AI Engineering, PC member
-4.  CAIN 2026, 5th International Conference on AI Engineering – Software Engineering for AI, PC Member
-5.  AIware 2025, 2nd ACM International Conference on AI-powered Software, PC Member
-6.  ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity, Student Research Competition, PC member
-7.  RAIE 2025, 3rd International Workshop on Responsible AI Engineering, PC member
-8.  ICSA 2025, 4th International Workshop on Software Architecture and Machine Learning, PC member
-9. 	CAiSE 2025, Blockchain for Information Systems Engineering, PC member
-10. IEEE S&P 2025, Human-Machine Intelligence for Security Analytics, PC member
-11. IEEE ISPA 2024, Main track, PC member
-12. IEEE Blockchain 2024, Main track, PC member
-13. ICSE 2024, 2rd International Workshop on Responsible AI Engineering, PC member
-14. Pacific Rim International Conference on Artificial Intelligence 2024, Main track, PC member
-15. International Conference on Very Large Databases 2024, International Workshop on Foundations and Applications of Blockchain, PC member
-16. IEEE Blockchain 2023, Main track, PC member
-17. Pacific Rim International Conference on Artificial Intelligence 2023, Main track, PC member
-18. International Conference on Perspectives in Business Informatics Research 2023, ​International Workshop on Blockchain for Trusted Data Sharing, PC member
+2.  SAML 2026, 5th International Workshop on Software Architecture and Machine Learning, PC Member
+3.  AGENT 2026, 1st International Workshop on Agentic Engineering, Proceedings Chair
+4.  RAIE 2026, 4rd International Workshop on Responsible AI Engineering, PC member
+5.  CAIN 2026, 5th International Conference on AI Engineering – Software Engineering for AI, PC Member
+6.  AIware 2025, 2nd ACM International Conference on AI-powered Software, PC Member
+7.  ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity, Student Research Competition, PC member
+8.  RAIE 2025, 3rd International Workshop on Responsible AI Engineering, PC member
+9.  ICSA 2025, 4th International Workshop on Software Architecture and Machine Learning, PC member
+10. CAiSE 2025, Blockchain for Information Systems Engineering, PC member
+11. IEEE S&P 2025, Human-Machine Intelligence for Security Analytics, PC member
+12. IEEE ISPA 2024, Main track, PC member
+13. IEEE Blockchain 2024, Main track, PC member
+14. ICSE 2024, 2rd International Workshop on Responsible AI Engineering, PC member
+15. Pacific Rim International Conference on Artificial Intelligence 2024, Main track, PC member
+16. International Conference on Very Large Databases 2024, International Workshop on Foundations and Applications of Blockchain, PC member
+17. IEEE Blockchain 2023, Main track, PC member
+18. Pacific Rim International Conference on Artificial Intelligence 2023, Main track, PC member
+19. International Conference on Perspectives in Business Informatics Research 2023, ​International Workshop on Blockchain for Trusted Data Sharing, PC member
 
 ### Journals
 
