@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+[November 2025] I am an invited speaker at the [AJCAI and Defence AI Symposium](https://www.dairnet.com.au/events/ajcai-and-defence-ai-symposium/).
+
 [November 2025] I will be serving as a Program Committee Member of [SAML 2026](https://sa-ml.github.io/saml2026/).
 
 [October 2025] I will be serving as a Program Committee Member of [WWW 2026](https://www2026.thewebconf.org/).
