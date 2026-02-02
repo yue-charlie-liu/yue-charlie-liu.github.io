@@ -4,7 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-[January 2026] Our demo paper "GAP: A Browser-Only Toolkit for Evaluating Multimodal RAG" is accepted by [PerCom 2026](https://percom.org/accepted-papers-demo/).
+[January 2026] Our paper "[Responsible AI Question Bank for Risk Assessment](https://dl.acm.org/doi/10.1145/3790096)" is published by ACM Computing Surveys!
+
+[January 2026] Our demo paper "GAP: A Browser-Only Toolkit for Evaluating Multimodal RAG" is accepted by [PerCom 2026](https://percom.org/accepted-papers-demo/)!
 
 [November 2025] I am an invited speaker at the [AJCAI and Defence AI Symposium](https://www.dairnet.com.au/events/ajcai-and-defence-ai-symposium/).
 
