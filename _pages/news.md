@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+[March 2026] I will be serving as the Student Volunteer Co-Chair of [ICSA 2027](https://conf.researchr.org/home/icsa-2027).
+
 [January 2026] Our paper "[Responsible AI Question Bank for Risk Assessment](https://dl.acm.org/doi/10.1145/3790096)" is published by ACM Computing Surveys!
 
 [January 2026] Our demo paper "GAP: A Browser-Only Toolkit for Evaluating Multimodal RAG" is accepted by [PerCom 2026](https://percom.org/accepted-papers-demo/)!
