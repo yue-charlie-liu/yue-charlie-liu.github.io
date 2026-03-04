@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "News"
-permalink: /news/
+permalink: news/
 author_profile: true
 ---
 [March 2026] I will be serving as the Student Volunteer Co-Chair of [ICSA 2027](https://conf.researchr.org/home/icsa-2027).
