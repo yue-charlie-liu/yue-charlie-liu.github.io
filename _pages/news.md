@@ -4,6 +4,8 @@ title: "News"
 permalink: news/
 author_profile: true
 ---
+[May 2026] I will be serving as a Program Committee Member of [ECSA 2026](https://conf.researchr.org/home/ecsa-2026).
+
 [March 2026] I will be serving as the Student Volunteer Co-Chair of [ICSA 2027](https://conf.researchr.org/home/icsa-2027).
 
 [January 2026] Our paper "[Responsible AI Question Bank for Risk Assessment](https://dl.acm.org/doi/10.1145/3790096)" is published by ACM Computing Surveys!
