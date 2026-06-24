@@ -17,6 +17,12 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 **Teaching interest**: Foundational computing courses (data structures, algorithms), Programming courses, Software engineering courses, Professional research courses.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yue-charlie-liu/yue-charlie-liu.github.io/snake-output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yue-charlie-liu/yue-charlie-liu.github.io/snake-output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yue-charlie-liu/yue-charlie-liu.github.io/snake-output/github-contribution-grid-snake.svg">
+</picture>
+
 ***
 
 # Experience
