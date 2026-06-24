@@ -52,28 +52,6 @@ Yue has published many papers at top-tier CORE A*/A ranked conferences/journals,
 
 * Refine metrics for AI risk assessment.
 
-
-***
-
-# Educational Background
-
-* **Doctor of Philosophy (2020 – 2024)**:               University of New South Wales (co-supervised by researchers from CSIRO’s Data61)
-
-<!--* **Major**:                    Computer Science and Engineering
-
-* **Supervisors**:              Dr. Qinghua Lu, Dr. Liming Zhu, Dr. Hye-Young Paik
-
-* **Research topic**:           Software Architecture for Governance-Driven Blockchain Systems -->
-
-* **Master of Engineering by Research (2017 – 2020)**:               China University of Petroleum (East China)  
-
-<!--* **Major**:                    Software Engineering -->
-
-
-* **Bachelor (2013 - 2017)**:               China University of Petroleum (East China)
-
-<!--* **Major**:                    Computer Science and Technology; English (double major) -->
-
 ***
 
 # Awards
