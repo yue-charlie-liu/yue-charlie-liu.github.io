@@ -18,4 +18,4 @@ author_profile: true
 
 # Supervision
 
-I am co-supervising Master students from University of New South Wales and Lingnan University, on the topics of ESG and AI, and the design and application of LLM-based agents.
+I am co-supervising Master's students from the University of New South Wales and Lingnan University on ESG and AI, and on the design and application of LLM-based agents.
