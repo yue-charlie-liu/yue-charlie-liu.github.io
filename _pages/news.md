@@ -6,7 +6,7 @@ author_profile: true
 ---
 [May 2026] I will serve as a Program Committee member of [ECSA 2026](https://conf.researchr.org/home/ecsa-2026).
 
-[March 2026] I will serve as the Student Volunteer Co-Chair of [ICSA 2027](https://conf.researchr.org/home/icsa-2027).
+[March 2026] I will serve as the Student Volunteer Co-Chair and Program Committee member of [ICSA 2027](https://conf.researchr.org/home/icsa-2027).
 
 [January 2026] Our paper "[Responsible AI Question Bank for Risk Assessment](https://dl.acm.org/doi/10.1145/3790096)" was published in ACM Computing Surveys!
 
