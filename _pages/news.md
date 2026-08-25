@@ -4,6 +4,8 @@ title: "News"
 permalink: news/
 author_profile: true
 ---
+[August 2026] I will serve as a Program Committee member of [IUI 2027](https://iui.acm.org/2027/).
+
 [May 2026] I will serve as a Program Committee member of [ECSA 2026](https://conf.researchr.org/home/ecsa-2026).
 
 [March 2026] I will serve as the Student Volunteer Co-Chair and Program Committee member of [ICSA 2027](https://conf.researchr.org/home/icsa-2027).
