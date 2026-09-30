@@ -6,7 +6,7 @@ author_profile: true
 ---
 [October 2026] I will serve as a Program Committee member of [CAIN 2027](https://conf.researchr.org/home/cain-2027).
 
-[October 2026] I will serve as a Program Committee member of [SAML 2027](https://sa-ml.github.io/saml2027/).
+[October 2026] I will serve as a Program Committee member of [SAML 2027](https://saml-workshop.github.io/saml2027/).
 
 [August 2026] I will serve as the Web Chair of [AGENT 2027](https://conf.researchr.org/home/icse-2027/agent-2027).
 
